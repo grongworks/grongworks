@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Christian Chabrié
 
-<!--
-**grongworks/grongworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building software that stays understandable.
 
-Here are some ideas to get you started:
+Full-Stack Software Engineer (10+ Jahre) mit Fokus auf **Architektur**,  
+**Wartbarkeit** und **saubere Berechtigungskonzepte**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 https://chabrie.dev
+
+---
+
+## 🧠 Kurzprofil
+
+Ich entwickle Web- & Backend-Systeme mit dem Anspruch,  
+dass sie **vorhersagbar**, **erweiterbar** und **langfristig wartbar** bleiben.
+
+Auf **chabrie.dev** schreibe ich über:
+- Architektur-Entscheidungen
+- RBAC & Authorization
+- Tooling & Developer Experience
+- pragmatische Lösungen statt Framework-Hype
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend:** React, TypeScript, **Angular**, Tailwind, Ant Design  
+**Backend:** Node.js, Express, **Spring Boot**, Go *(Beginner)*  
+**Auth:** **Keycloak**, OAuth2, OpenID Connect, RBAC  
+**DevOps:** **Docker**, Git, CI/CD  
+**Patterns:** Modularisierung, Clean APIs, Permission-Driven Design
+
+---
+
+## 🚀 Projekte (Auswahl)
+
+- **RBAC Engine**  
+  Scope- & rollenbasiertes Berechtigungssystem für Frontend & Backend
+
+- **Modular API Template**  
+  Produktionsnahes Starter-Template (Auth, Permissions, Service-Layer)
+
+- **Admin UI Playground**  
+  Admin-Dashboards mit Fokus auf UX, Permissions & Skalierbarkeit
+
+👉 Details findest du in meinen Repositories.
+
+---
+
+## 📫 Kontakt
+
+- 🌐 https://chabrie.dev  
+- 💼 https://www.linkedin.com/in/christian-chabrié-362a24228/
+
+---
+
+> *Code is a liability.  
+> Good architecture keeps it manageable.*
