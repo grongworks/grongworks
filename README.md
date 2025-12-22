@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">Full-Stack Software Engineer · Architecture · Authorization</h3>
+<h3 align="center">Full-Stack Software Engineer</h3>
 
 <p align="center">
   <a href="https://chabrie.dev">🌐 chabrie.dev</a> ·
@@ -33,15 +33,11 @@
 - 🧱 **Modular API Templates**  
   Node / Spring Boot · Auth · Service-Layer · produktionsnah
 
-- 🖥️ **Admin UI Systems**  
-  Angular & React · UX · Permission-Driven UI
-
 ---
 
 ### 🧠 Engineering Focus
 
-- Clean Architecture over Framework Hype  
-- Authorization as a first-class concept  
+- Clean Architecture over Framework Hype   
 - Maintainable systems > clever code
 
 ---
