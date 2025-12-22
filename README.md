@@ -1,58 +1,51 @@
-# 👋 Christian Chabrié
+<h1 align="center">Hi 👋, I'm Christian</h1>
+<h3 align="center">Full-Stack Software Engineer · Architecture · Authorization</h3>
 
-> Building software that stays understandable.
-
-Full-Stack Software Engineer (10+ Jahre) mit Fokus auf **Architektur**,  
-**Wartbarkeit** und **saubere Berechtigungskonzepte**.
-
-🌐 https://chabrie.dev
-
----
-
-## 🧠 Kurzprofil
-
-Ich entwickle Web- & Backend-Systeme mit dem Anspruch,  
-dass sie **vorhersagbar**, **erweiterbar** und **langfristig wartbar** bleiben.
-
-Auf **chabrie.dev** schreibe ich über:
-- Architektur-Entscheidungen
-- RBAC & Authorization
-- Tooling & Developer Experience
-- pragmatische Lösungen statt Framework-Hype
+<p align="center">
+  <a href="https://chabrie.dev">🌐 chabrie.dev</a> ·
+  <a href="https://www.linkedin.com/in/christian-chabrié-362a24228/">LinkedIn</a>
+</p>
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Languages & Tools
 
-**Frontend:** React, TypeScript, **Angular**, Tailwind, Ant Design  
-**Backend:** Node.js, Express, **Spring Boot**, Go *(Beginner)*  
-**Auth:** **Keycloak**, OAuth2, OpenID Connect, RBAC  
-**DevOps:** **Docker**, Git, CI/CD  
-**Patterns:** Modularisierung, Clean APIs, Permission-Driven Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,angular,nodejs,spring,go,docker,postgres,mysql,git,keycloak&perline=8" />
+</p>
 
 ---
 
-## 🚀 Projekte (Auswahl)
+### 📊 GitHub Stats
 
-- **RBAC Engine**  
-  Scope- & rollenbasiertes Berechtigungssystem für Frontend & Backend
-
-- **Modular API Template**  
-  Produktionsnahes Starter-Template (Auth, Permissions, Service-Layer)
-
-- **Admin UI Playground**  
-  Admin-Dashboards mit Fokus auf UX, Permissions & Skalierbarkeit
-
-👉 Details findest du in meinen Repositories.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=grongworks&show_icons=true&theme=gradient&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grongworks&layout=compact&theme=gradient&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Kontakt
+### 🚀 Focus Projects
 
-- 🌐 https://chabrie.dev  
-- 💼 https://www.linkedin.com/in/christian-chabrié-362a24228/
+- 🔐 **RBAC & Permission Engines**  
+  Scope- & rollenbasierte Zugriffssysteme (Frontend & Backend)
+
+- 🧱 **Modular API Templates**  
+  Node / Spring Boot · Auth · Service-Layer · produktionsnah
+
+- 🖥️ **Admin UI Systems**  
+  Angular & React · UX · Permission-Driven UI
 
 ---
 
-> *Code is a liability.  
-> Good architecture keeps it manageable.*
+### 🧠 Engineering Focus
+
+- Clean Architecture over Framework Hype  
+- Authorization as a first-class concept  
+- Maintainable systems > clever code
+
+---
+
+<p align="center">
+  <sub>Software should stay understandable.</sub>
+</p>
