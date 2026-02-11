@@ -4,8 +4,6 @@ Full-Stack Developer • TypeScript Enthusiast • System Thinker
 Building scalable web applications & clean backend architectures.
 
 📍 Wassenberg, Germany  
-🌐 https://chabrie.dev  
-💼 LinkedIn: https://www.linkedin.com/in/christian-chabri%C3%A9-362a24228/
 
 ---
 
